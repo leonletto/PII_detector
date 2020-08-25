@@ -1,3 +1,2 @@
 # Don't track content of these folders
-data/
 .vector_cache/
